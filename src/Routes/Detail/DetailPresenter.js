@@ -146,7 +146,7 @@ const DetailPresenter = ({ result, loading, error }) =>
           bgImage={
             result.poster_path
               ? `https://image.tmdb.org/t/p/original${result.poster_path}`
-              : require("D:/NomadReactjs/nomflix/src/assets/noPosterSmall.JPG")
+              : require("../../assets/noPosterSmall.JPG")
           }
         ></Cover>
         <Data>
