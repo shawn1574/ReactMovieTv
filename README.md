@@ -4,10 +4,10 @@ Learning React and Es6 by building a Movie Discovery App.
 
 ##Screens
 
-- [ ] Home
-- [ ] TV Shows
-- [ ] Search
-- [ ] Detail
+- [x] Home
+- [x] TV Shows
+- [x] Search
+- [x] Detail
 
 ## API VERBS
 
@@ -16,6 +16,10 @@ Learning React and Es6 by building a Movie Discovery App.
 - [x] popular (Tv)
 - [x] Upcoming(movie)
 - [x] Airing Today(Tv)
-- [] Tv show detail
-- [] movie detail
-- [] search (Movie,TV)
+- [x] Tv show detail
+- [x] movie detail
+- [x] search (Movie,TV)
+
+#Preview
+
+go to [netlify](https://unruffled-hugle-e44064.netlify.com/#/)
